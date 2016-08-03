@@ -1,0 +1,23 @@
+{
+  "name": "node_mw_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superjimillan/NodeMiddwareAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superjimillan/NodeMiddwareAPI/issues"
+  },
+  "homepage": "https://github.com/superjimillan/NodeMiddwareAPI#readme",
+  "dependencies": {
+    "log4js": "0.6.38",
+    "request": "2.74.0"
+  }
+}
